@@ -1,0 +1,25 @@
+{
+  "name": "document-generator",
+  "version": "1.0.0",
+  "description": "Document generator from hbs template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jintus/document-generator.git"
+  },
+  "author": "Justin GALLY",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jintus/document-generator/issues"
+  },
+  "homepage": "https://github.com/Jintus/document-generator#readme",
+  "dependencies": {
+    "fs-extra": "^8.1.0",
+    "handlebars": "^4.5.3",
+    "moment": "^2.24.0",
+    "puppeteer": "^2.0.0"
+  }
+}
